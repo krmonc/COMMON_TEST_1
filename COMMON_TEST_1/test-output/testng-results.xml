@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="2252" started-at="2020-07-28T06:19:33 CDT" finished-at="2020-07-28T06:19:35 CDT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="2252" started-at="2020-07-28T06:19:33 CDT" finished-at="2020-07-28T06:19:35 CDT">
+      <class name="Get_test_kerim">
+        <test-method status="PASS" signature="Test1()[pri:0, instance:Get_test_kerim@cd2dae5]" name="Test1" duration-ms="2208" started-at="2020-07-28T06:19:33 CDT" finished-at="2020-07-28T06:19:35 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test1 -->
+      </class> <!-- Get_test_kerim -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
